@@ -1,0 +1,27 @@
+.container {
+  border: 1px solid rgb(231, 231, 236);
+  margin-left: 7cm;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.heading {
+  background-color: #f1f1f1;
+}
+
+.heading th,
+.body td {
+  border: 1px solid rgb(231, 231, 236);
+  padding: 8px;
+}
+
+.body td {
+  text-align: center;
+}
+
+.input {
+  border: 1px solid rgb(231, 231, 236);
+  padding: 4px;
+  width: 80%;
+}
